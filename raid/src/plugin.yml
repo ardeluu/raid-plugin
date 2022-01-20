@@ -1,0 +1,10 @@
+name : raidmanage
+version: 1.0
+author: ardeluu
+main: me.ardeluu.raid.main
+description: Make a raid
+
+commands:
+  raid:
+    aliases: [raid]
+      descrition: /raid spawn 10 creepers
